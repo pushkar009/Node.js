@@ -20,7 +20,7 @@ This repository was created for:
 
 - Strengthening Node.js fundamentals  
 - Hands-on practice with real scenarios  
-- Internship preparation (e.g., **Techonsy Software Pvt. Ltd.**)  
+- Internship preparation 
 - Sharing learning journey with others
 
 ---
